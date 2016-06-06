@@ -1,5 +1,5 @@
 
-Name of Quantlet: forecastCombinationExample
+Name of Quantlet: forecastCombination
 
 Published in: Energy Economics
 
