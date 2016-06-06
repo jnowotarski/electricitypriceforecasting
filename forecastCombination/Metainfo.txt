@@ -1,5 +1,5 @@
 
-Name of Quantlet: ElectricityPriceForecastCombination
+Name of Quantlet: forecastCombinationExample
 
 Published in: Energy Economics
 
