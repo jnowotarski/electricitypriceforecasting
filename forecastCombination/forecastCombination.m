@@ -1,6 +1,6 @@
 % Perform forecast combination for electricity prices.
 % Algorithm uses extending calibration window for weights estimation.
-% See also J. Nowotarski, E. Raviv, S. Trück, R. Weron (2014) 
+% See also J. Nowotarski, E. Raviv, S. TrÃ¼ck, R. Weron (2014) 
 %          An empirical comparison of alternate schemes for combining 
 %          electricity spot price forecasts, Energy Economics 46, 395-412 
 %          (doi: 10.1016/j.eneco.2014.07.014)
